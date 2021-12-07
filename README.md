@@ -5,3 +5,5 @@ This repository depends on the Peter Corke Robotics Toolbox as can be installed 
 This project also requires MATLAB app designer be installed.
 
 With the dependencies installed, the app will allow the user to input the configuration of any robot and will return the equations of motion, control simulations, and kinematic simulations.
+
+References: P.I. Corke, “Robotics, Vision & Control”, Springer 2017, ISBN 978-3-319-54413-7.
